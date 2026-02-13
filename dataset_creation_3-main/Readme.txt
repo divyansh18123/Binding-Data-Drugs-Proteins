@@ -1,0 +1,3 @@
+In main.py update the target_drugs and target_proteins lists.
+The ontology_edges.csv and ontology_terms.csv files take time and I have made a separate script for them, in the ontology_with_concurrency folder
+drug_protein_edges.csv also takes time and is commented out at the time. For getting it, run the script again after only including the code till process_targets function in drug.py and leave it overnight
